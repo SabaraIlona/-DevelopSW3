@@ -1,2 +1,2 @@
-Hello world!
-Добрий день механіко-математичний!
+Hello world! 
+version it was Добрий день механіко-математичний! & in verion 2 it is: Привіт Мех-мат!
